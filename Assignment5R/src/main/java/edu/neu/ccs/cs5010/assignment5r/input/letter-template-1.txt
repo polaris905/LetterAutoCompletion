@@ -1,0 +1,16 @@
+[[first_name]] [[last_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+
+Dear [[first_name]] [[last_name]]
+
+When unexpected events strike, we join together to support those in need. Yesterday’s fire on Hemenway Street in Boston impacted dozens of Northeastern students, prompting our community to take action and to support those who were affected.
+We have relocated all displaced students to on-campus housing. This provides them a with secure place to live and study. Many lost all of their belongings, and we are working to ensure that all of their needs are met and that their education is not disrupted.
+Northeastern is more than an academic community; we are also a family. When a calamity happens—on campus or abroad—let us embrace the opportunity to offer one another strength and support. In doing so, we do more than care for those in need—we build a collective resilience that makes our community stronger.
+By the way, please check if your mail address has been changed. Your current address is: [[address]], [[city]], [[state]], [[zip]]
+
+Sincerely,
+
+Joseph E. Aoun
+
+President

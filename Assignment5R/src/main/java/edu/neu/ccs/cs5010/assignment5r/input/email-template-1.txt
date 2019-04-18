@@ -1,0 +1,14 @@
+Mail to: [[email]]
+
+Dear [[last_name]] [[first_name]],
+
+The evil of anti-Semitism is an affront to every tenet of civilization and every value we cherish at Northeastern. As we mourn Saturday’s attack on Pittsburgh’s Tree of Life Synagogue, I invite you to join me, your colleagues, and friends in a vigil for the victims, and an expression of our solidarity with the Jewish community.
+With the spread of poisonous ideas and rhetoric, it is more important than ever to affirm that discrimination against any person based on religion, race, nationality, sexuality, gender, or any other basis will never be acceptable in our community. Our university must not reflect the world’s weaknesses, but must be a model for what the world can become. We will never acquiesce to the proliferation of hate or divisiveness; instead, we embrace the diversity of our community, which is our greatest strength.
+Please join me at 2 pm tomorrow, October 30, 2018, at the Sacred Space in Ell Hall.
+If this email [[email]] is not yours, please ignore.
+
+Sincerely,
+
+Thomas
+
+President
